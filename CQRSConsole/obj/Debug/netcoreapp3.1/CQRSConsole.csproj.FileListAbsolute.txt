@@ -1,0 +1,30 @@
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.AssemblyInfo.cs
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.exe
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.deps.json
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.runtimeconfig.json
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.dll
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.pdb
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csproj.CopyComplete
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.dll
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.pdb
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.genruntimeconfig.cache
+C:\Users\HP\source\repos\CQRSConsole\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csprojAssemblyReference.cache
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.exe
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.deps.json
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.runtimeconfig.json
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.runtimeconfig.dev.json
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.dll
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.pdb
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\Ninject.dll
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csprojAssemblyReference.cache
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.AssemblyInfoInputs.cache
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.AssemblyInfo.cs
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csproj.CoreCompileInputs.cache
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csproj.CopyComplete
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.dll
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.pdb
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.genruntimeconfig.cache
