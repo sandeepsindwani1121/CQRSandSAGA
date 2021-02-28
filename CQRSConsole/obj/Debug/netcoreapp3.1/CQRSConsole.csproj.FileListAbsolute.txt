@@ -20,7 +20,6 @@ E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.r
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.dll
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\CQRSConsole.pdb
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\bin\Debug\netcoreapp3.1\Ninject.dll
-E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csprojAssemblyReference.cache
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.AssemblyInfoInputs.cache
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.AssemblyInfo.cs
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csproj.CoreCompileInputs.cache
@@ -28,3 +27,4 @@ E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.c
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.dll
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.pdb
 E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.genruntimeconfig.cache
+E:\Study\.Net Core\CQRSandSAGA\CQRSConsole\obj\Debug\netcoreapp3.1\CQRSConsole.csprojAssemblyReference.cache

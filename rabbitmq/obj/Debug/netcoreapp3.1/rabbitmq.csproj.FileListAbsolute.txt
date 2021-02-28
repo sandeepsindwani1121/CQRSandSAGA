@@ -1,0 +1,16 @@
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.exe
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.deps.json
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.runtimeconfig.json
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.runtimeconfig.dev.json
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.dll
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.pdb
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.csprojAssemblyReference.cache
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.AssemblyInfoInputs.cache
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.AssemblyInfo.cs
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.csproj.CoreCompileInputs.cache
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.dll
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.pdb
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.genruntimeconfig.cache
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\Study\.Net Core\CQRSandSAGA\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.csproj.CopyComplete
