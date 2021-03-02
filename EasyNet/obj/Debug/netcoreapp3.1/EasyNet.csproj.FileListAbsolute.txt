@@ -1,0 +1,17 @@
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\EasyNet.exe
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\EasyNet.deps.json
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\EasyNet.runtimeconfig.json
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\EasyNet.runtimeconfig.dev.json
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\EasyNet.dll
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\EasyNet.pdb
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\obj\Debug\netcoreapp3.1\EasyNet.AssemblyInfoInputs.cache
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\obj\Debug\netcoreapp3.1\EasyNet.AssemblyInfo.cs
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\obj\Debug\netcoreapp3.1\EasyNet.csproj.CoreCompileInputs.cache
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\obj\Debug\netcoreapp3.1\EasyNet.dll
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\obj\Debug\netcoreapp3.1\EasyNet.pdb
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\obj\Debug\netcoreapp3.1\EasyNet.genruntimeconfig.cache
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\Study\.Net Core\CQRSandSAGA\EasyNet\obj\Debug\netcoreapp3.1\EasyNet.csproj.CopyComplete
